@@ -30,7 +30,7 @@
 
 </div>
 
-I'm **Barialay** — a passionate **Full-Stack Developer**, **Tech Architect**, and eternal tinkerer. I don't just write code; I sculpt digital experiences that feel alive. From elegant frontends that dance with users to robust backends that scale like galaxies, I turn ambitious ideas into polished realities.
+I'm **Barialay Rahimi** — a passionate **Full-Stack Developer**, **Tech Architect**, and eternal tinkerer. I don't just write code; I sculpt digital experiences that feel alive. From elegant frontends that dance with users to robust backends that scale like galaxies, I turn ambitious ideas into polished realities.
 
 <div align="center">
   <strong>📍 Currently:</strong> Crafting the future • 
@@ -81,16 +81,6 @@ I'm **Barialay** — a passionate **Full-Stack Developer**, **Tech Architect**, 
 
 </div>
 
----
-
-## 📊 **GitHub Observatory**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barialay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barialay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</div>
-
----
 
 ## 🌟 **Highlights from the Journey**
 
