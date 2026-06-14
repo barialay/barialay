@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng4FLj/giphy.gif" width="35px" alt="Hi">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrng4FLj/giphy.gif" width="40px" alt="Hi">
   <h1>Welcome to My Digital Realm ✨</h1>
   <p><strong>Where code becomes poetry and ideas ignite realities</strong></p>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00FF9D&center=true&vCenter=true&width=520&lines=Full-Stack+Visionary;Architect+of+Scalable+Worlds;Crafting+Digital+Masterpieces;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF9D&center=true&vCenter=true&width=520&lines=Full-Stack+Visionary;Architect+of+Scalable+Systems;Crafting+Digital+Experiences;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 ---
@@ -15,80 +15,116 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=barialay&color=00FF9D&style=for-the-badge&label=EXPLORERS+IN+THE+REALM" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/barialay?logo=github&style=for-the-badge&label=FOLLOWERS&color=00FF9D" alt="Followers">
-  <img src="https://img.shields.io/github/stars/barialay?style=for-the-badge&label=STARS&color=00FF9D" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=barialay&color=00FF9D&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/barialay?logo=github&style=for-the-badge&label=Followers&color=00FF9D" alt="Followers">
+  <img src="https://img.shields.io/github/stars/barialay?style=for-the-badge&label=Stars&color=00FF9D" alt="Stars">
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32px"> About the Architect
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32px"> About Me
 
-<div align="center">
+I'm **Barialay Faraby** — a passionate **Full-Stack Developer** and **Software Architect** who builds elegant, scalable digital experiences. I specialize in turning complex problems into intuitive, high-performance solutions that scale from startup prototypes to enterprise systems.
 
 > **"Code is poetry. Architecture is art. Innovation is the universe we build together."**
 
+- **📍 Currently:** Crafting the future with modern web technologies
+- **🎯 Mission:** Deliver impactful, scalable software at velocity
+- **⚡ Vibe:** Curiosity-driven, detail-obsessed, team-first
+
+---
+
+## <img src="https://media.giphy.com/media/TEnXkcsHrP4YWIaVzE/giphy.gif" width="32px"> Tech Arsenal
+
+### 🎨 **Frontend**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI">
 </div>
 
-I'm **Barialay Rahimi** — a passionate **Full-Stack Developer**, **Tech Architect**, and eternal tinkerer. I don't just write code; I sculpt digital experiences that feel alive. From elegant frontends that dance with users to robust backends that scale like galaxies, I turn ambitious ideas into polished realities.
-
+### 🛠️ **Backend**
 <div align="center">
-  <strong>📍 Currently:</strong> Crafting the future • 
-  <strong>🎯 Mission:</strong> Impact at scale • 
-  <strong>⚡ Vibe:</strong> 110% curiosity & creativity
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</div>
+
+### 💾 **Databases & Caching**
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+</div>
+
+### ☁️ **DevOps & Cloud**
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/TEnXkcsHrP4YWIaVzE/giphy.gif" width="32px"> My Arsenal of Stars
+## 🎯 Core Competencies
+
+| **Domain**                  | **Expertise** |
+|----------------------------|-------------|
+| **Full-Stack Development** | End-to-end modern web applications with React/Next.js + Laravel/.NET |
+| **System Architecture**    | Microservices, clean architecture, event-driven systems |
+| **Cloud & DevOps**         | AWS infrastructure, Docker, CI/CD pipelines, scalable deployments |
+| **API Development**        | RESTful APIs, GraphQL, high-performance backend services |
+| **Performance & Quality**  | Optimization, testing, code quality, monitoring |
+| **Open Source & Leadership**| Active contributor, mentoring, knowledge sharing |
+
+---
+
+## 🌟 Journey Highlights
+
+- Built and deployed multiple high-impact production applications used by thousands
+- Designed scalable microservices architectures handling significant traffic
+- Active open-source contributor and advocate for clean, maintainable code
+- Passionate about performance engineering and developer experience
+- Lifelong learner always exploring emerging technologies
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=barialay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barialay&theme=tokyonight&hide_border=true" alt="Streak Stats">
+</div>
 
-### 🎨 **Frontend Cosmos**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### 🛠️ **Backend Constellations**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-### 💾 **Data & Realms**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ☁️ **DevOps Nebula**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barialay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
 ---
 
-## 🎯 **Core Superpowers**
+## 📫 Let's Connect
 
 <div align="center">
-
-| <img src="https://media.giphy.com/media/l3q2K6HIQ6playdyac/giphy.gif" width="55px"><br>**Full-Stack Sorcery**<br>End-to-end magic | <img src="https://media.giphy.com/media/Xz0eKFoSVVMSEyoxv9/giphy.gif" width="55px"><br>**Microservices Mastery**<br>Scalable galaxies | <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="55px"><br>**Cloud Architecture**<br>Modern constellations |
-|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
-| <img src="https://media.giphy.com/media/QssGEFYAn0At6V5PYd/giphy.gif" width="55px"><br>**API Design**<br>RESTful & GraphQL | <img src="https://media.giphy.com/media/Y4ak9Ki2GZYaK/giphy.gif" width="55px"><br>**Performance Tuning**<br>Lightning fast | <img src="https://media.giphy.com/media/j5WwIkSNzNoulF0d0z/giphy.gif" width="55px"><br>**Open Source**<br>Community weaver |
-
+  <a href="https://github.com/barialay" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/barialay" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
+---
 
-## 🌟 **Highlights from the Journey**
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  ⭐ Built & deployed multiple high-impact digital experiences ║
-║  🚀 Master of scalable microservices & cloud-native systems   ║
-║  💡 Active open-source contributor & knowledge sharer         ║
-║  🏆 Champion of clean architecture & elegant code             ║
-║  🌱 Forever student of the ever-evolving tech universe        ║
-╚══════════════════════════════════════════════════════════════╝
+<div align="center">
+  <strong>Thanks for visiting my realm! ✨</strong><br>
+  Feel free to explore my repositories and reach out if you'd like to collaborate.
+</div>
