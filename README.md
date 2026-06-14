@@ -95,15 +95,6 @@ I'm **Barialay Faraby** — a passionate **Full-Stack Developer** and **Software
 
 ---
 
-## 🌟 Featured Project
-
-**Full-Stack Web Application (React + Laravel)**  
-A modern, scalable full-stack project showcasing clean architecture, robust backend API, responsive frontend, and best practices in both React and Laravel.
-
-> **Repository:** [Add your repo link here](https://github.com/barialay/your-repo-name)
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -113,7 +104,7 @@ A modern, scalable full-stack project showcasing clean architecture, robust back
   <a href="https://linkedin.com/in/barialay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:barialay.faraby@hotmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
