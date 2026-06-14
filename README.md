@@ -87,7 +87,7 @@ I'm **Barialay Faraby** — a passionate **Full-Stack Developer** and **Software
 
 ## 🌟 Journey Highlights
 
-- **Active contributor in 2025–2026** with consistent commits and project deliveries
+- **Active contributor in 2019–2026** with consistent commits and project deliveries
 - Built and deployed multiple high-impact production applications
 - Recently developed a **full-stack application** using **React** and **Laravel** (modern, scalable architecture with clean code practices)
 - Designed scalable microservices architectures with **C#/.NET** and Laravel
