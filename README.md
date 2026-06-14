@@ -24,7 +24,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32px"> About Me
 
-I'm **Barialay Faraby** — a passionate **Full-Stack Developer** and **Software Architect** who builds elegant, scalable digital experiences. I specialize in turning complex problems into intuitive, high-performance solutions that scale from startup prototypes to enterprise systems.
+I'm **Barialay Faraby** — a passionate **Full-Stack Developer** and **Software Architect** who builds elegant, scalable digital experiences. I specialize in turning complex problems into intuitive, high-performance solutions.
 
 > **"Code is poetry. Architecture is art. Innovation is the universe we build together."**
 
@@ -40,17 +40,17 @@ I'm **Barialay Faraby** — a passionate **Full-Stack Developer** and **Software
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI">
 </div>
 
-### 🛠️ **Backend**
+### 🛠️ **Backend & Languages** (Most Used)
 <div align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </div>
 
@@ -76,35 +76,31 @@ I'm **Barialay Faraby** — a passionate **Full-Stack Developer** and **Software
 
 | **Domain**                  | **Expertise** |
 |----------------------------|-------------|
-| **Full-Stack Development** | End-to-end modern web applications with React/Next.js + Laravel/.NET |
-| **System Architecture**    | Microservices, clean architecture, event-driven systems |
-| **Cloud & DevOps**         | AWS infrastructure, Docker, CI/CD pipelines, scalable deployments |
-| **API Development**        | RESTful APIs, GraphQL, high-performance backend services |
-| **Performance & Quality**  | Optimization, testing, code quality, monitoring |
-| **Open Source & Leadership**| Active contributor, mentoring, knowledge sharing |
+| **Full-Stack Development** | React/Next.js + C#/.NET & Laravel/PHP |
+| **System Architecture**    | Microservices, Clean Architecture, Event-Driven Systems |
+| **Backend Mastery**        | C#, .NET, Laravel, REST/GraphQL APIs |
+| **Cloud & DevOps**         | AWS, Docker, Kubernetes, CI/CD Pipelines |
+| **Performance & Quality**  | Optimization, Testing, Monitoring |
+| **Open Source & Leadership**| Active contributor & knowledge sharer |
 
 ---
 
 ## 🌟 Journey Highlights
 
-- Built and deployed multiple high-impact production applications used by thousands
-- Designed scalable microservices architectures handling significant traffic
-- Active open-source contributor and advocate for clean, maintainable code
-- Passionate about performance engineering and developer experience
-- Lifelong learner always exploring emerging technologies
+- **Active contributor in 2025–2026** with consistent commits and project deliveries
+- Built and deployed multiple high-impact production applications
+- Recently developed a **full-stack application** using **React** and **Laravel** (modern, scalable architecture with clean code practices)
+- Designed scalable microservices architectures with **C#/.NET** and Laravel
+- Strong advocate for clean, maintainable, and high-performance code
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Project
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barialay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barialay&theme=tokyonight&hide_border=true" alt="Streak Stats">
-</div>
+**Full-Stack Web Application (React + Laravel)**  
+A modern, scalable full-stack project showcasing clean architecture, robust backend API, responsive frontend, and best practices in both React and Laravel.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barialay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</div>
+> **Repository:** [Add your repo link here](https://github.com/barialay/your-repo-name)
 
 ---
 
@@ -117,7 +113,7 @@ I'm **Barialay Faraby** — a passionate **Full-Stack Developer** and **Software
   <a href="https://linkedin.com/in/barialay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:barialay.faraby@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
@@ -126,5 +122,5 @@ I'm **Barialay Faraby** — a passionate **Full-Stack Developer** and **Software
 
 <div align="center">
   <strong>Thanks for visiting my realm! ✨</strong><br>
-  Feel free to explore my repositories and reach out if you'd like to collaborate.
+  Feel free to explore my repositories and reach out for collaboration.
 </div>
