@@ -24,7 +24,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32px"> About Me
 
-I'm **Barialay Faraby** — a passionate **Full-Stack Developer** and **Software Architect** who builds elegant, scalable digital experiences. I specialize in turning complex problems into intuitive, high-performance solutions.
+I'm **Barialay Rahimi** — a passionate **Full-Stack Developer** and **Software Architect** who builds elegant, scalable digital experiences. I specialize in turning complex problems into intuitive, high-performance solutions.
 
 > **"Code is poetry. Architecture is art. Innovation is the universe we build together."**
 
