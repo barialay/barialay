@@ -46,17 +46,17 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,bootstrap,tailwind" alt="Frontend skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,materialui" alt="Frontend skills"/>
 </p>
 
 ### Backend & Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,cs,dotnet,mysql,postgres,redis,mongodb" alt="Backend skills"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,cs,dotnet,mysql,postgres,redis,mongodb" alt="Backend skills"/>
 </p>
 
 ### DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma" alt="DevOps and tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma" alt="DevOps and tools"/>
 </p>
 
 ---
@@ -72,37 +72,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=barialay&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/barialay/barialay/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=barialay&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true" alt="Contribution activity graph"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-
-| Project | Stack | Description |
-|:-------:|:-----:|:------------|
-| 🗺️ [**Afghanistan Provinces**](https://github.com/barialay/afghanistan-province-district-village) | `PHP` `MySQL` | Province, district & village data API for Afghanistan |
-| 🛒 [**Shopping Cart DB**](https://github.com/barialay/shopping-cart-database-mysql) | `MySQL` | E-commerce database schema starter kit |
-
-</p>
-
-<div align="center">
-
-[![Afghanistan Provinces](https://github-readme-stats.vercel.app/api/pin/?username=barialay&repo=afghanistan-province-district-village&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/barialay/afghanistan-province-district-village)
-[![Profile](https://github-readme-stats.vercel.app/api/pin/?username=barialay&repo=barialay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/barialay/barialay)
-
-</div>
 
 ---
 
