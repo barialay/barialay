@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Distributed+Systems+Architect;Microservices+Specialist;Cloud+Infrastructure+Engineer;Technical+Leadership+%26+Mentorship" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Distributed+Systems+Architect;Microservices+Specialist[...]
 </div>
 
 ---
@@ -21,7 +21,7 @@
 
 ## 👨‍💼 Professional Profile
 
-**Senior Full-Stack Architect** with 7+ years of experience designing and implementing scalable, enterprise-level solutions across cloud-native environments. Specialized in **distributed systems**, **microservices architecture**, and **DevOps automation**. Proven track record of leading technical initiatives, mentoring engineering teams, and delivering mission-critical systems at scale.
+**Senior Full-Stack Architect** with 7+ years of experience designing and implementing scalable, enterprise-level solutions across cloud-native environments. Specialized in **distributed systems**[...]
 
 > **Philosophy:** *"Architecture is not just about technology—it's about enabling teams to move fast, maintain code quality, and build systems that scale without compromise."*
 
@@ -124,19 +124,11 @@
 
 ## 🚀 Recent Projects & Impact
 
-- **Enterprise Microservices Platform:** Architected and led a complete system modernization, breaking down a monolithic application into 15+ independent microservices using .NET Core and Kubernetes
+- **Enterprise Microservices Platform:** Architected and led a complete system modernization, breaking down a monolithic application into 15+ independent microservices using .NET Core and Kuberne[...]
 - **Real-time Analytics Pipeline:** Built a high-throughput event processing system handling 100K+ events/second with Apache Kafka and Elasticsearch
 - **Multi-Region Cloud Infrastructure:** Designed and implemented automated infrastructure using Terraform and AWS, enabling zero-downtime deployments
 - **Performance Optimization Initiative:** Led database and API optimization efforts, resulting in 8x improvement in query performance and 60% reduction in infrastructure costs
 - **Developer Experience Enhancement:** Established code quality standards, automated testing frameworks, and documentation practices improving team velocity by 40%
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barialay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
 
 ---
 
