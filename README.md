@@ -30,7 +30,6 @@
 ```diff
 + Full-Stack Software Engineer with 7+ years of experience
 + Specialized in enterprise web apps, APIs, and system design
-+ Currently architecting IH-CC-MIS — road construction MIS platform
 + Based in Afghanistan 🇦🇫 | Remote-friendly 🌍
 ```
 
@@ -70,10 +69,6 @@
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barialay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=barialay&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
 </p>
 
@@ -97,7 +92,6 @@
 
 | Project | Stack | Description |
 |:-------:|:-----:|:------------|
-| 🏗️ [**IH-CC-MIS**](https://github.com/barialay/Full_Stack_RCC) | `Laravel` `React` `TS` `MySQL` | Enterprise road construction MIS — HR, finance, BOQ, equipment & RBAC |
 | 🗺️ [**Afghanistan Provinces**](https://github.com/barialay/afghanistan-province-district-village) | `PHP` `MySQL` | Province, district & village data API for Afghanistan |
 | 🛒 [**Shopping Cart DB**](https://github.com/barialay/shopping-cart-database-mysql) | `MySQL` | E-commerce database schema starter kit |
 
@@ -105,7 +99,7 @@
 
 <div align="center">
 
-[![IH-CC-MIS](https://github-readme-stats.vercel.app/api/pin/?username=barialay&repo=afghanistan-province-district-village&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/barialay/afghanistan-province-district-village)
+[![Afghanistan Provinces](https://github-readme-stats.vercel.app/api/pin/?username=barialay&repo=afghanistan-province-district-village&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/barialay/afghanistan-province-district-village)
 [![Profile](https://github-readme-stats.vercel.app/api/pin/?username=barialay&repo=barialay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/barialay/barialay)
 
 </div>
