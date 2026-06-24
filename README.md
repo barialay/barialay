@@ -28,7 +28,7 @@
 ## 👨‍💻 About Me
 
 ```diff
-+ Full-Stack Software Engineer with 7+ years of experience
++ Full-Stack Software Engineer with 6+ years of experience
 + Specialized in enterprise web apps, APIs, and system design
 + Based in Afghanistan 🇦🇫 | Remote-friendly 🌍
 ```
