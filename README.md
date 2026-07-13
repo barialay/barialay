@@ -95,8 +95,8 @@
 <a href="https://github.com/barialay" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:barialay.faraby@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-barialay.faraby@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:rahimybarialay@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-rahimybarialay@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
