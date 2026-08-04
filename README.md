@@ -80,88 +80,6 @@
 
 ---
 
-## GitHub Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Profile-Achievements-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Achievements"/>
-
-<br/><br/>
-
-### Earnable Badges
-
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw"/><br/>
-      <sub><strong>Quickdraw</strong></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO"/><br/>
-      <sub><strong>YOLO</strong></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark"/><br/>
-      <sub><strong>Pull Shark</strong></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="72" alt="Pull Shark Bronze"/><br/>
-      <sub><strong>Pull Shark 🥉</strong></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" width="72" alt="Pull Shark Silver"/><br/>
-      <sub><strong>Pull Shark 🥈</strong></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="72" alt="Pull Shark Gold"/><br/>
-      <sub><strong>Pull Shark 🥇</strong></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire"/><br/>
-      <sub><strong>Pair Extraordinaire</strong></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="72" alt="Pair Bronze"/><br/>
-      <sub><strong>Pair 🥉</strong></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="72" alt="Galaxy Brain"/><br/>
-      <sub><strong>Galaxy Brain</strong></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="72" alt="Starstruck"/><br/>
-      <sub><strong>Starstruck</strong></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png" width="72" alt="Starstruck Bronze"/><br/>
-      <sub><strong>Starstruck 🥉</strong></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="72" alt="Public Sponsor"/><br/>
-      <sub><strong>Public Sponsor</strong></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/View_earned_badges-Profile_Achievements-0F4C75?style=for-the-badge&logo=github&logoColor=white" alt="View achievements"/>
-<a href="https://github.com/barialay?tab=achievements">
-  <img src="https://img.shields.io/badge/barialay-Achievements_Tab-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Achievements tab"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="56" alt="Arctic Code Vault"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="56" alt="Mars 2020"/>
-<sub>Legacy achievements (no longer earnable)</sub>
-
-</div>
-
----
-
 ## Featured Work
 
 <table align="center">
@@ -197,7 +115,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/barialay/barialay/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barialay/barialay/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barialay/barialay/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/barialay/barialay/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/><br/>
 

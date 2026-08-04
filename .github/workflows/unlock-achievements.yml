@@ -4,12 +4,12 @@ on:
   workflow_dispatch:
     inputs:
       pull_shark_count:
-        description: "Merged PRs to create (2=base, 16=bronze, 128=silver)"
+        description: "Extra merged PRs to create (12 reaches bronze from 4 existing, 16 for full bronze batch)"
         required: false
         default: "16"
         type: choice
         options:
-          - "2"
+          - "12"
           - "16"
           - "128"
 
@@ -23,11 +23,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configure git
         run: |
-          git config user.name "barialay"
-          git config user.email "57029478+barialay@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Quickdraw — close issue within 5 minutes
         env:
@@ -37,7 +39,6 @@ jobs:
           echo "Created $ISSUE_URL"
           sleep 20
           gh issue close "$ISSUE_URL"
-          echo "Quickdraw step complete."
 
       - name: YOLO + Pull Shark — merge PRs without review
         env:
@@ -45,20 +46,18 @@ jobs:
           PR_COUNT: ${{ github.event.inputs.pull_shark_count || '16' }}
         run: |
           git pull origin main
-          touch achievements-log.md
-          if ! grep -q "# Achievement Log" achievements-log.md 2>/dev/null; then
-            echo "# Achievement Log" > achievements-log.md
-            echo "" >> achievements-log.md
-            echo "Automated entries for GitHub profile achievements." >> achievements-log.md
+
+          if [ ! -f achievements-log.md ]; then
+            printf '# Achievement Log\n\nAutomated entries for GitHub profile achievements.\n' > achievements-log.md
             git add achievements-log.md
             git commit -m "chore: initialize achievements log"
             git push origin main
           fi
 
           for i in $(seq 1 "$PR_COUNT"); do
-            BRANCH="achievement/pull-shark-$i-$(date +%s)"
             git checkout main
             git pull origin main
+            BRANCH="achievement/pull-shark-$i-$(date +%s)"
             git checkout -b "$BRANCH"
             echo "- Pull Shark PR #$i — $(date -u +"%Y-%m-%dT%H:%M:%SZ")" >> achievements-log.md
             git add achievements-log.md
@@ -66,8 +65,7 @@ jobs:
             git push origin "$BRANCH"
             PR_URL=$(gh pr create --title "Achievement: Pull Shark #$i" --body "Automated PR for Pull Shark / YOLO achievements." --head "$BRANCH" --base main)
             gh pr merge "$PR_URL" --merge --admin
-            echo "Merged $PR_URL"
-            sleep 3
+            sleep 2
           done
 
       - name: Pair Extraordinaire — co-authored merged PR
@@ -80,16 +78,11 @@ jobs:
           git checkout -b "$BRANCH"
           echo "- Pair Extraordinaire — $(date -u +"%Y-%m-%dT%H:%M:%SZ")" >> achievements-log.md
           git add achievements-log.md
-          git commit -m "achievement: pair extraordinaire
-
-          Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          git commit -m "achievement: pair extraordinaire" -m "Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           git push origin "$BRANCH"
           PR_URL=$(gh pr create --title "Achievement: Pair Extraordinaire" --body "Co-authored commit for Pair Extraordinaire badge." --head "$BRANCH" --base main)
           gh pr merge "$PR_URL" --merge --admin
-          echo "Pair Extraordinaire step complete."
 
       - name: Summary
         run: |
-          echo "Achievement unlock workflow finished."
-          echo "Badges may take up to 24 hours to appear on your GitHub profile."
-          echo "Check: https://github.com/barialay?tab=achievements"
+          echo "Done. Check https://github.com/barialay?tab=achievements in up to 24 hours."
