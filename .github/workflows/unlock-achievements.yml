@@ -4,19 +4,19 @@ on:
   workflow_dispatch:
     inputs:
       pull_shark_count:
-        description: "Merged PRs to create (2=base, 16=bronze, 128=silver)"
+        description: "Extra PRs to merge for higher Pull Shark tiers"
         required: false
-        default: "16"
+        default: "12"
         type: choice
         options:
-          - "2"
+          - "1"
           - "12"
-          - "16"
-          - "128"
+          - "14"
+          - "124"
+          - "1020"
 
 permissions:
   contents: write
-  issues: write
   pull-requests: write
 
 jobs:
@@ -33,15 +33,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Quickdraw — close issue within 5 minutes
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          ISSUE_URL=$(gh issue create --title "Achievement unlock: Quickdraw" --body "Automated issue for Quickdraw badge.")
-          echo "Created $ISSUE_URL"
-          sleep 20
-          gh issue close "$ISSUE_URL"
-
       - name: Initialize achievements log
         run: |
           git pull origin main
@@ -52,10 +43,10 @@ jobs:
             git push origin main
           fi
 
-      - name: YOLO + Pull Shark — merge PRs without review
+      - name: YOLO + Pull Shark tiers — merge PRs without review
         uses: actions/github-script@v7
         env:
-          PR_COUNT: ${{ github.event.inputs.pull_shark_count || '16' }}
+          PR_COUNT: ${{ github.event.inputs.pull_shark_count || '12' }}
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
@@ -67,6 +58,8 @@ jobs:
 
             const git = (cmd) => execSync(cmd, { stdio: 'inherit' });
             const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+            console.log(`Creating and merging ${count} PR(s) for YOLO / Pull Shark tiers...`);
 
             for (let i = 1; i <= count; i++) {
               git('git fetch origin main');
@@ -90,7 +83,7 @@ jobs:
                 title: `Achievement: Pull Shark #${i}`,
                 head: branch,
                 base: 'main',
-                body: 'Automated PR for Pull Shark / YOLO achievements.'
+                body: 'Automated PR merged without review for YOLO / Pull Shark achievements.'
               });
 
               console.log(`Created PR #${pr.number}: ${pr.html_url}`);
@@ -115,60 +108,8 @@ jobs:
               await sleep(2000);
             }
 
-      - name: Pair Extraordinaire — co-authored merged PR
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const fs = require('fs');
-            const { execSync } = require('child_process');
-            const owner = context.repo.owner;
-            const repo = context.repo.repo;
-
-            const git = (cmd) => execSync(cmd, { stdio: 'inherit' });
-            const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
-            git('git fetch origin main');
-            git('git checkout main');
-            git('git pull origin main');
-
-            const branch = `achievement/pair-extraordinaire-${Date.now()}`;
-            git(`git checkout -b ${branch}`);
-
-            fs.appendFileSync('achievements-log.md', `- Pair Extraordinaire — ${new Date().toISOString()}\n`);
-            git('git add achievements-log.md');
-            git('git commit -m "achievement: pair extraordinaire" -m "Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"');
-            git(`git push origin ${branch}`);
-
-            await sleep(3000);
-
-            const { data: pr } = await github.rest.pulls.create({
-              owner,
-              repo,
-              title: 'Achievement: Pair Extraordinaire',
-              head: branch,
-              base: 'main',
-              body: 'Co-authored commit for Pair Extraordinaire badge.'
-            });
-
-            for (let attempt = 1; attempt <= 10; attempt++) {
-              try {
-                await github.rest.pulls.merge({
-                  owner,
-                  repo,
-                  pull_number: pr.number,
-                  merge_method: 'merge'
-                });
-                console.log(`Merged Pair Extraordinaire PR #${pr.number}`);
-                break;
-              } catch (error) {
-                if (attempt === 10) throw error;
-                await sleep(3000);
-              }
-            }
-
       - name: Summary
         run: |
-          echo "Achievement unlock complete."
-          echo "Check your badges: https://github.com/barialay?tab=achievements"
-          echo "Badges may take up to 24 hours to appear."
+          echo "Targets: YOLO + Pull Shark tier progress"
+          echo "Skipped: Quickdraw, Pair Extraordinaire (already earned)"
+          echo "Check badges: https://github.com/barialay?tab=achievements"
