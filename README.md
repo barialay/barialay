@@ -28,6 +28,35 @@
 
 ---
 
+## Follow for Full-Stack & Open Source
+
+<div align="center">
+
+**Building in public — useful repos, Laravel packages, and real-world full-stack projects.**
+
+<br/>
+
+<a href="https://github.com/barialay?tab=followers">
+  <img src="https://img.shields.io/badge/⬆️_Follow_@barialay-2%2F100_Followers-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Follow barialay"/>
+</a>
+
+<br/><br/>
+
+| Why follow? | What you'll see |
+|:---:|:---|
+| 📦 **Open source** | Laravel packages & databases you can use |
+| 🌍 **Afghanistan data** | Provinces, districts & 10K+ villages dataset |
+| 🛠️ **Full-stack builds** | React, TypeScript, Laravel, APIs |
+| 🚀 **New repos** | Early access when I ship new tools |
+
+<br/>
+
+⭐ **Star** my top repo → [**Afghanistan Province District Village**](https://github.com/barialay/afghanistan-province-district-village) — then **follow** for more.
+
+</div>
+
+---
+
 ## About Me
 
 ```diff
@@ -143,8 +172,11 @@
 
 <div align="center">
 
-<a href="https://github.com/barialay" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/barialay?tab=followers">
+  <img src="https://img.shields.io/badge/⬆️_Follow_on_GitHub-@barialay-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/barialay/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:rahimybarialay@hotmail.com">
   <img src="https://img.shields.io/badge/Email-rahimybarialay@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -152,7 +184,9 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=linkedin,github" alt="Social icons"/>
+<a href="https://github.com/barialay/afghanistan-province-district-village">
+  <img src="https://img.shields.io/badge/⭐_Star_my_top_repo-Afghanistan_Data-0F4C75?style=for-the-badge" alt="Star top repo"/>
+</a>
 
 </div>
 
@@ -170,7 +204,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=130&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20Star%20a%20repo%20%7C%20Follow%20for%20more&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=130&section=footer&text=Follow%20%40barialay%20%E2%80%94%20Star%20a%20repo%20%7C%20See%20what%20I%20build%20next&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer banner"/>
 
 **Crafted with precision by Barialay Rahimi**
 
