@@ -113,3 +113,17 @@ jobs:
           echo "Targets: YOLO + Pull Shark tier progress"
           echo "Skipped: Quickdraw, Pair Extraordinaire (already earned)"
           echo "Check badges: https://github.com/barialay?tab=achievements"
+
+      - name: Cleanup — remove achievement files
+        run: |
+          git checkout main
+          git pull origin main
+          rm -f achievements-log.md
+          rm -f .github/workflows/unlock-achievements.yml
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Nothing to clean up."
+          else
+            git commit -m "chore: remove achievement unlock files after completion"
+            git push origin main
+          fi
