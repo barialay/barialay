@@ -4,7 +4,7 @@
 
 **Full-Stack Engineer** · React, TypeScript, Laravel
 
-[Portfolio](https://king-01110.github.io/Rahimy_Barialay/) · [LinkedIn](https://www.linkedin.com/in/barialay/) · [Email](mailto:rahimybarialay@hotmail.com)
+[Portfolio](https://king-01110.github.io/Rahimy_Barialay/)  · [Email](mailto:rahimybarialay@hotmail.com)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,php,laravel,nodejs,mysql,git,github,linux" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react ,nextjs,.net,php,laravel,nodejs,mysql,git,github,linux" alt="Tech stack"/>
 
 </div>
 
